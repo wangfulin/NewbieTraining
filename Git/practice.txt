@@ -1,0 +1,12 @@
+GIT 环境：
+1,熟悉Git常用的命令：git clone, git commit, git add, git diff，git pull, git push, git log, git config, git branch, git checkout, git tag , git revert等
+2,熟悉Git的开发流程，了解git-flow等类似的开发流程
+
+Mysql:
+1,了解SQL相关语法和常用SQL的编写
+2,了解Mysql的使用和相关操作
+3,了解PHP如何操作Mysql数据库
+
+练习：
+
+创建一个git工程，然后在这个git工程进行代码的编写，实现对Mysql数据库的增删改查。

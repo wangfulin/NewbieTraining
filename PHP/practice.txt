@@ -1,0 +1,11 @@
+PHP ：
+1,熟悉PHP语法、面向对象特性、基本模块和类库、共享内存等
+2,熟悉PHP-FPM
+
+练习：
+
+使用PHP对共享内存进行操作，提供add(key,value), get(key), del(key)功能，使用System V IPC进行操作。如果有兴趣，可以使用Shared Memory的方式 （自己做key-value的管理)
+
+资料:
+
+PHP手册 http://php.net/manual/zh/ (看过一遍,函数库快速过)
