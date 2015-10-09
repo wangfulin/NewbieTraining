@@ -1,2 +1,2 @@
-# NewbieTraining
-## This is the training for the new guy in QiHoo 360
+## NewbieTraining
+#### This is the training for the new guy in QiHoo 360
